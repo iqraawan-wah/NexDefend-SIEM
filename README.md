@@ -14,6 +14,8 @@ NexDefend-SIEM is a lightweight, Python-based SIEM solution designed for real-ti
 - **Framework:** Flask / FastAPI
 - **Frontend:** HTML, CSS, Bootstrap
 - **Logs:** Custom / Syslog / Windows Event Logs
+- Smart SEIM Dashboard for threat detection
+- Run; python -m streamlit run app.py
 
 ### 📦 Installation
 
